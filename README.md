@@ -12,4 +12,6 @@ Kadane's Algorithm : https://practice.geeksforgeeks.org/problems/kadanes-algorit
 Minimum number of jumps : https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1 <br>
 Merge Without Extra Space : https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1 <br>
 Common elements : https://practice.geeksforgeeks.org/problems/common-elements1132/1 <br>
+Subarray with 0 sum : https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1 <br>
+
 
