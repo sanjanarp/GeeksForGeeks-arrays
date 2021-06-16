@@ -13,5 +13,5 @@ Minimum number of jumps : https://practice.geeksforgeeks.org/problems/minimum-nu
 Merge Without Extra Space : https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1 <br>
 Common elements : https://practice.geeksforgeeks.org/problems/common-elements1132/1 <br>
 Subarray with 0 sum : https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1 <br>
-
+Count More than n/k Occurences: https://practice.geeksforgeeks.org/problems/count-element-occurences/1# <br>
 
