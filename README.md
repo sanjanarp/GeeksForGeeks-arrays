@@ -14,4 +14,5 @@ Merge Without Extra Space : https://practice.geeksforgeeks.org/problems/merge-tw
 Common elements : https://practice.geeksforgeeks.org/problems/common-elements1132/1 <br>
 Subarray with 0 sum : https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1 <br>
 Count More than n/k Occurences: https://practice.geeksforgeeks.org/problems/count-element-occurences/1# <br>
+Reverse a String : https://practice.geeksforgeeks.org/problems/reverse-a-string/1# <br />
 
