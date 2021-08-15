@@ -1,5 +1,7 @@
-//Initial Template for C++
+//Another method for Reverse a string problem
 
+//Initial Template for C++
+// Driver code begins
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -23,20 +25,16 @@ int main() {
 	
 }
 
-// Driver Code Ends
+// } Driver Code Ends
 
 
 //User function Template for C++
 
 string reverseWord(string str){
-    string s;
-    int j=str.length()-1;
-   for(int i=0;i<str.length();i++){
-           s[j]=str[i];
-           j--;
-       
+    
+  //Your code here
+   for(int i=str.length()-1;i>=0;i--)
+   {
+       cout<<str[i];
    }
-   for(int j=0;j<str.length();j++)
-   cout<<s[j];
-   
 }
