@@ -31,3 +31,20 @@ string isSubset(int a1[], int a2[], int n, int m) {
     } else return "No";
  
 }
+
+//method 3: using unordered_map
+
+string isSubset(int a1[], int a2[], int n, int m) {
+    unordered_map<int,int> m1;
+    int cnt=0;
+    for(int i=0;i<n;i++)
+    {
+        m1[a1[i]]++;
+    }
+    for(int i=0;i<m;i++)
+    {
+        if(++m1[a2[i]]>1)
+        cnt++;
+    }
+    return cnt==m ? "Yes":"No";
+}
